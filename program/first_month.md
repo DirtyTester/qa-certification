@@ -5,7 +5,6 @@
   - Определение тестирования
   - Цели тестирования
   - Этапы тестирования
-  - Пирамида тестирования (Mike Kohn)
 - Дефект
   - Определение дефекта
   - Правила создания дефекта
@@ -22,12 +21,8 @@
   - Запись логов
   - Нахождение crash-логов
 - Firefox DevTools
-  - Работа с Debugger tab
-  - Работа со Style Editor tab
-- Инструменты разработчика в Chrome 
-  - Работа с Elements tab
-  - Работа с Console tab
-  - Работа с Network tab
+  - Работа с Inspector
+  - Работа с Console
 - Android SDK (Android Native Development Kit)
   - Запись логов
 - Виртуальная машина VMware Workstation
